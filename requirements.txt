@@ -1,0 +1,9 @@
+# Dependências diretas do projeto — Python 3.12
+# Instalação: pip install -r requirements.txt
+#
+# greenlet, Mako, MarkupSafe e typing_extensions NÃO são listados aqui:
+# o pip os instala automaticamente como dependências transitivas destes três.
+
+alembic==1.18.5
+SQLAlchemy==2.0.50
+validate-docbr==2.0.0
